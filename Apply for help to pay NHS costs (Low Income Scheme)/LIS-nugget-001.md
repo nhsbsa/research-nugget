@@ -1,5 +1,5 @@
 ### Apply for help to pay NHS costs
-## Research nugget
+# Research nugget
 
 > After I had my stroke I couldn’t write things properly. Not just that [holding the pen] was tricky… 
 …I thought I was writing my address. It looked right to me, but they were saying, “No, that’s not an address, that’s ‘[more like dcgfcs fggll]’”
