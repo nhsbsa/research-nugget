@@ -1,5 +1,4 @@
-### 'Am I Exempt' Service
-# Research Nugget 1
+# Research Nugget - 'Check an exemption from paying NHS costs' Service
 ## Q: How could we improve this service?
 ## A:
 > “You can’t but please ask the department that sends penalty notices out to [people with] exempt medical conditions to at least [send] a first letter to ask them to use this service to check if they have a valid certificate …”
